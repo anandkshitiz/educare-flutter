@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243154571868",
+    "project_id": "cbs-educare",
+    "storage_bucket": "cbs-educare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243154571868:android:2b8215e808cb4b84420c99",
+        "android_client_info": {
+          "package_name": "com.cbstech.educare.educare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jvoHlkFbjAEg2C3Z3tYgJqAA1weEPb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

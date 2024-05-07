@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA3PzmvmbDha1sGL_aWyK3I6IvFZ3DqxXw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>243154571868</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cbstech.educare.educare</string>
+	<key>PROJECT_ID</key>
+	<string>cbs-educare</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cbs-educare.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:243154571868:ios:33bbc06fa4640979420c99</string>
+</dict>
+</plist>
